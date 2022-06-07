@@ -2,7 +2,7 @@
 
 ## Environment
 
-Hisi 3519A-> (2 x A53)
+ A53
 
 ## Build And Run
 
