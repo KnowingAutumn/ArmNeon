@@ -2,7 +2,7 @@
 
 ## Environment
 
- A53
+ Hisi 3519AA53
 
 ## Build And Run
 
